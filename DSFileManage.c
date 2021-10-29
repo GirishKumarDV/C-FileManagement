@@ -1,8 +1,8 @@
 #include <conio.h>
 #include <string.h>
 #define USER_MAX 20
-// This system can store up to number of users
-typedef struct
+// This system can store up to number of users 
+typedef struct 
 {
     char name[15];
     char password[30];
